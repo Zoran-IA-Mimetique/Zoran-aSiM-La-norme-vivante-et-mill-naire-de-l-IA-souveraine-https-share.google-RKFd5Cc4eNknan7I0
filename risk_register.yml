@@ -1,0 +1,7 @@
+risks:
+  - id: data-01
+    name: Data poisoning
+    mitigation: EthicChain + ΔM11.3 + audit
+  - id: supply-01
+    name: Supply chain tampering
+    mitigation: SBOM + VEX + C2PA

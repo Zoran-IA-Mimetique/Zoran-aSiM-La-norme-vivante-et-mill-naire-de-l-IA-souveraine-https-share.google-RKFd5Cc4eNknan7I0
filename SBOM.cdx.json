@@ -1,0 +1,14 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "version": 1,
+  "components": [
+    {
+      "name": "zoran_core",
+      "type": "library",
+      "licenses": [
+        "MIT"
+      ]
+    }
+  ]
+}
